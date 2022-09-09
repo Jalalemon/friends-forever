@@ -12,6 +12,6 @@ document.getElementById('btn-in').addEventListener('click', function(){
     } else {
         alert('please! Input The valid password');
     }
-    fieldInput.value = ' ';
-    textInput.value = ' ';
+    fieldInput.value = '';
+    textInput.value = '';
     })
